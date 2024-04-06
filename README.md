@@ -1,1 +1,1 @@
-# ParagonRelsHelperChromeExtension
+# ParagonRels Helper Chrome Extension
